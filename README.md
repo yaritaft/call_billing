@@ -65,7 +65,3 @@ Dependencies can also be found in requirements.txt.
 Yari Ivan Taft
 
 https://github.com/yaritaft/
-
-
-#### Author
-Yari Ivan Taft
